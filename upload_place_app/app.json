@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fav-places-app",
-    "slug": "fav-places-app",
+    "name": "upload_place_app",
+    "slug": "upload_place_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,14 +28,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      [
-        "expo-image-picker",
-        {
-          "cameraPermission": "The app needs camera in order to take photos of your favorite places."
-        }
-      ]
-    ]
+    }
   }
 }
